@@ -6,7 +6,7 @@
 # This is a briefly optimized version; I'm considering several performance improvements but this should give you
 # the basic idea.
 #
-# If you use this code in/for your project please let me know/give credit and consider a donation (paypal)
+# If you use this code in/for your project please let me know/give credit and consider a donation, see README
 # thanks.
 #
 # f k r u h m   at  gmail    com
