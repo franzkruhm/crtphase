@@ -5,7 +5,7 @@ CRT phase lines effect
 This uses OpenCV for input/output and part of the effects; the real time version requires numba or else it is just too sloooooow
 
 # License
-This is CC-BY-NC, please keep it in mind
+This is GPL3, please keep it in mind
 
 # Contribute, donate
 BTC: bc1q5gkn0tln6su3tvwnld7xf7p20fjssaufles47d
