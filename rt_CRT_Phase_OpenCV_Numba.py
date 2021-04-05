@@ -9,8 +9,7 @@
 # This is a webcam version; I'm considering several performance improvements but this should give you
 # the basic idea.
 #
-# If you use this code in/for your project please let me know/give credit and consider a donation at
-# paypal.me/fkruhm or via cryptocurrencies like bitcoin (see franzkruhm.com for addresses)
+# If you use this code in/for your project please let me know/give credit and consider a donation (see README)
 # thanks.
 #
 # f k r u h m   at  gmail    com
