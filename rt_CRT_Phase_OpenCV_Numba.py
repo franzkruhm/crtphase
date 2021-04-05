@@ -3,8 +3,7 @@
 # dependencies: opencv, numpy, numba (numba not absolutely necessary, used to get a bit more performance)
 # Copyright 2018-2021 Franz KRUHM
 #
-# License: CC BY-NC 2.0
-#
+# License: GPL 3
 # This is inspired heavily by Polygon1993 iconic CRT effect
 #
 # This is a webcam version; I'm considering several performance improvements but this should give you
