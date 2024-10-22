@@ -8,8 +8,4 @@ This is GPL3, please keep it in mind
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G758OLF)
 
-BTC: bc1q5gkn0tln6su3tvwnld7xf7p20fjssaufles47d
-
-ETH: 0xD7A75bF1b64e302ad07b0843A9D295F9a9E3db8E
-
-DOT: 146LV65VWKxM3HsGWNMdjvB3YKg7JHYnRkeX2K3vSTJYxsdB
+Donate in crypto: https://trocador.app/anonpay/?ticker_to=eth&network_to=ERC20&address=0xAF565Ea309267dD97B3AAb3414bF1d0Fe0037e65&donation=True&simple_mode=True&name=Franz&bgcolor=
